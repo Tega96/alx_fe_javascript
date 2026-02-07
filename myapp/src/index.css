@@ -2,10 +2,10 @@
 
 @layer components {
   .btn {
-    @apply bg-red-400 rounded m-2 px-4 py-2 hover:bg-red-500
+    @apply bg-red-400 rounded m-2 md:m-4 lg:m-6 px-4 py-2 hover:bg-red-500
   }
   .title {
-    @apply text-gray-500 text-xl text-center hover:text-gray-800
+    @apply text-gray-500 text-[16px] md:text-[20px] xl:text-[30px] text-center hover:text-gray-800
   }
   .card {
     @apply bg-gray-200 rounded shadow 
