@@ -1,7 +1,11 @@
+import UserProfile from "./components/UserProfile";
+
 
 const App = () => {
   return (
-    <div className="text-4xl underline text-center mt-10"> Hello world</div>
+    <div className=""> 
+      <UserProfile />
+    </div>
   )
 }
 export default App;
