@@ -1,0 +1,1 @@
+Learning to integrate and utilize Tailwind CSS for styling a react application. This project covers essential concepts and techniques for applying utility-first CSS to React components, allowing you to create responsive and interactive designs efficiently.
